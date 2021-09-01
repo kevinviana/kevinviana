@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Kévin
+### Hi there 👋🏽 I'm Kévin
 
 - 🔭 I’m currently working on 17ª PRT/MPT 
 - 🌱 I’m currently learning Typescript, React, NodeJS.
