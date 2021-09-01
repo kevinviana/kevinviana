@@ -6,7 +6,7 @@
  <div>
   <a href="https://github.com/kevinviana">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kevinviana&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinviana&layout=compact&langs_count=8&theme=highcontrast"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinviana&layout=compact&langs_count=6&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
