@@ -1,6 +1,6 @@
 ### Hi there 👋🏽 I'm Kévin
 
-- 🔭 I’m currently working at 17ª PRT/MPT 
+- 🔭 I currently work at 17ª PRT/MPT 
 - 🌱 I’m currently learning Java, SpringBoot, Angular.
 
  <div style="display: inline_block; align-items: center;text-align: center">
