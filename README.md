@@ -1,7 +1,7 @@
 ### Hi there 👋🏽 I'm Kévin
 
 - 🔭 I currently work at WM Trading as a Full Stack Developer 
-- 🌱 I'm currently immersed in the field of Java, SpringBoot, and Angular. Also exploring some DevOps concepts.
+- 🌱 I'm currently immersed in the field of Java, SpringBoot, and Angular.
 
  <div style="display: inline_block; align-items: center;text-align: center">
   <a href="https://github.com/kevinviana">
